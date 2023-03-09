@@ -7,7 +7,7 @@ public class MyFirstTask {
         System.out.println(" ");
         System.out.println("A'rara");
         System.out.println(" ");
-        System.out.println(1996);
+        System.out.println(19071996);
 
 
     }
