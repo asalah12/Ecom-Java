@@ -1,3 +1,5 @@
+package lesson_02_scanner;
+
 import java.util.Scanner;
 
 public class ScannerClassWork {

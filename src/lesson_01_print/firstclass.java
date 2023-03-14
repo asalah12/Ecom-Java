@@ -1,4 +1,4 @@
-package lesson_01;
+package lesson_01_print;
 
 public class firstclass {
     public static void main(String[] args) {

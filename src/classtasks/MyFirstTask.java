@@ -1,4 +1,4 @@
-package lesson_01.ClassTasks;
+package classtasks;
 
 public class MyFirstTask {
     public static void main(String[] args) {
